@@ -4,6 +4,7 @@
 
 /**
  * print_char - Prints a char
+ * up
  * @types: List a of argument
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
