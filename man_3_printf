@@ -1,6 +1,6 @@
-                     06/08/22             \" DATE
+                     24/01/23             \" DATE
 
-.Sh AUTHOR 		\"C. A. Touré, Rasheedat Olufunke Yusuf
+.Sh AUTHOR 		\"C. A. Touré, Aurelle ADJAHOU
 
 .Dt _Printf ( "Alx Software Engineering Printf Manual"  \" Program name and manual section number
 .   
@@ -71,10 +71,10 @@ int main()
 
 {
 
-_printf("Hello world, I'm a %s", "Rasheedat");
+_printf("Hello world, Our names is respectively %s", "Aurelle and Ahmed");
 
 return (0);
 
 }
 
-Hello world, I'm a Rasheedat
+Hello world, Our names is respectively Aurelle and Ahmed
