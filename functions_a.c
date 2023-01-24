@@ -2,7 +2,7 @@
 
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
- * Update code
+ * Updated
  * print_unsigned - Prints an unsigned number
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
