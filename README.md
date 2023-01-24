@@ -2,7 +2,7 @@ This is the readme file for the printf () function
 
 It is a team project. The Authors are;
 C. A. Touré
-Rasheedat Olufunke Yusuf
+Aurelle ADJAHOU
 
 What we did in this project is;
 
